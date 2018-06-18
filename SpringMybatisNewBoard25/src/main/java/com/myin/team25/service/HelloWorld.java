@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("제발 그냥 되라!!!");
-
+		System.out.println("제발 그냥 올려져라!!!");
 	}
 
 }
